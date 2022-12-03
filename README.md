@@ -1,1 +1,1 @@
-# myproject
+# Applied Machine Learning Group Projects
