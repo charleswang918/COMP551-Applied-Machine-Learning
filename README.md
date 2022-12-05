@@ -1,5 +1,5 @@
 # Applied Machine Learning Group Projects
-The contents of this repository consists of 4 group mini-projects given by Prof. Rabbany for the COMP 551 Applied Machine Learning course during Winter 2022 at McGill University. 
+The contents of this repository consists of 4 group mini-projects given by Prof. Rabbany for the COMP 551 Applied Machine Learning course during Winter 2022 at McGill University. The course website is:http://www.reirab.com/Teaching/AML22/index.html
 ## Contents
 * Project 1: Implementing K-Nearest Neighbour and Decision Trees from scratch; Training both two classification models on Hepatitis dataset and Diabetic Retinopathy Debrecen dataset; Comparing two algorithms on two distinct health dataset.
 * Project 2: Implementing Naive Bayes and K-fold cross-validation from scratch; Trainging both two classification models on 20 news group dataset and Sentiment140 dataset; Using logisitc regression from scikit-learn package and compare all algorithms on two distinct textual datasets.
